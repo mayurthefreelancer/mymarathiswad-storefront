@@ -1,0 +1,21 @@
+{
+  "pages": {
+    "/_not-found/page": [
+      "static/chunks/a5d11_next_dist_69586581._.js",
+      "static/chunks/bcb5e_my-medusa-store_apps_storefront_src_app_twitter-image_jpg_mjs_7d2591c3._.js",
+      "static/chunks/freelancing_my-medusa-store_apps_storefront_src_styles_globals_8fead1bc.css",
+      "static/chunks/freelancing_my-medusa-store_apps_storefront_src_app_layout_tsx_838e2978._.js",
+      "static/chunks/a5d11_next_dist_e94c2f82._.js",
+      "static/chunks/freelancing_my-medusa-store_apps_storefront_src_app_not-found_tsx_c2270390._.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_beb70649._.js",
+      "static/chunks/a5d11_next_dist_compiled_react-dom_3a183443._.js",
+      "static/chunks/a5d11_next_dist_compiled_next-devtools_index_48948b35.js",
+      "static/chunks/a5d11_next_dist_compiled_5440b18c._.js",
+      "static/chunks/a5d11_next_dist_client_b7c2aed5._.js",
+      "static/chunks/a5d11_next_dist_2a78926f._.js",
+      "static/chunks/910c0_@swc_helpers_cjs_79fcd0f6._.js",
+      "static/chunks/freelancing_my-medusa-store_apps_storefront_a0ff3932._.js",
+      "static/chunks/turbopack-freelancing_my-medusa-store_apps_storefront_440f9ee7._.js"
+    ]
+  }
+}

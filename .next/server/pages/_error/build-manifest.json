@@ -1,0 +1,26 @@
+{
+  "devFiles": [],
+  "ampDevFiles": [],
+  "polyfillFiles": [],
+  "lowPriorityFiles": [],
+  "rootMainFiles": [],
+  "pages": {
+    "/_error": [
+      "static/chunks/a5d11_next_dist_compiled_next-devtools_index_83f50bec.js",
+      "static/chunks/a5d11_next_dist_compiled_8a0602c6._.js",
+      "static/chunks/a5d11_next_dist_shared_lib_1d647a34._.js",
+      "static/chunks/a5d11_next_dist_client_c3d807b4._.js",
+      "static/chunks/a5d11_next_dist_2df76af8._.js",
+      "static/chunks/a5d11_next_error_5d5fd2af.js",
+      "static/chunks/[next]_entry_page-loader_ts_7c9aac29._.js",
+      "static/chunks/a5d11_react_9d81f0e7._.js",
+      "static/chunks/a5d11_react-dom_cjs_react-dom_development_13cc59d5.js",
+      "static/chunks/a5d11_react-dom_f12bfe6b._.js",
+      "static/chunks/a5d11_2d242448._.js",
+      "static/chunks/[root-of-the-server]__b853482f._.js",
+      "static/chunks/freelancing_my-medusa-store_apps_storefront_pages__error_2da965e7._.js",
+      "static/chunks/turbopack-freelancing_my-medusa-store_apps_storefront_pages__error_f6ece05b._.js"
+    ]
+  },
+  "ampFirstPages": []
+}
