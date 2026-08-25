@@ -1,0 +1,46 @@
+
+# Dependencies
+node_modules/
+.pnp/
+.pnp.js
+
+# Next.js
+.next/
+out/
+next-env.d.ts
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Build and tool caches
+dist/
+build/
+.turbo/
+.cache/
+.eslintcache
+*.tsbuildinfo
+
+# Logs
+*.log
+logs/
+pnpm-debug.log*
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Coverage and test output
+coverage/
+.nyc_output/
+
+# Local editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
